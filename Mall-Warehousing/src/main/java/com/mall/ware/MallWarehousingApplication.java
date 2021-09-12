@@ -8,6 +8,7 @@ public class MallWarehousingApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(MallWarehousingApplication.class, args);
+    
   }
 
 }

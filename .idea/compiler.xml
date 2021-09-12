@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Mall-Order" />
         <module name="Mall-User" />
+        <module name="Mall-Commodity" />
+        <module name="Mall-Coupon" />
+        <module name="Mall-Warehousing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

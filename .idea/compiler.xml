@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Mall-User" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall" target="1.5" />
+      <module name="Mall-Commodity" target="1.8" />
+      <module name="Mall-Coupon" target="1.8" />
+      <module name="Mall-Order" target="1.8" />
+      <module name="Mall-User" target="1.8" />
+      <module name="Mall-Warehousing" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Mall-Commodity" options="-parameters" />
+      <module name="Mall-Coupon" options="-parameters" />
+      <module name="Mall-Order" options="-parameters" />
+      <module name="Mall-User" options="-parameters" />
+      <module name="Mall-Warehousing" options="-parameters" />
+    </option>
+  </component>
+</project>

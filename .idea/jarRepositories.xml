@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="3672c177-f04f-4be3-a432-78504fd74e06" />
+      <option name="name" value="3672c177-f04f-4be3-a432-78504fd74e06" />
+      <option name="url" value="https://maven.alfresco.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5f8e356b-aae0-4672-8c7b-7ca3fee641ea" />
+      <option name="name" value="5f8e356b-aae0-4672-8c7b-7ca3fee641ea" />
+      <option name="url" value="https://maven.wso2.org/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="92644bbe-30fc-499d-b50e-dbd2cabbef46" />
+      <option name="name" value="92644bbe-30fc-499d-b50e-dbd2cabbef46" />
+      <option name="url" value="https://app.camunda.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="0c9a410c-58a2-4437-ae0c-d12032dfd1f3" />
+      <option name="name" value="0c9a410c-58a2-4437-ae0c-d12032dfd1f3" />
+      <option name="url" value="https://raw.github.com/thinkgem/repository/master" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="3b36dadf-bd02-4ac2-8c1e-c6c88b468833" />
+      <option name="name" value="3b36dadf-bd02-4ac2-8c1e-c6c88b468833" />
+      <option name="url" value="https://repository.apache.org/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fbd5c238-d49e-4b02-8ebb-88673eca0097" />
+      <option name="name" value="fbd5c238-d49e-4b02-8ebb-88673eca0097" />
+      <option name="url" value="https://maven-repository.openspaces.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ab6a2ea9-6c96-4312-90b6-474f656943d8" />
+      <option name="name" value="ab6a2ea9-6c96-4312-90b6-474f656943d8" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c145c59e-259f-4bea-9cb9-a8cddd39a528" />
+      <option name="name" value="c145c59e-259f-4bea-9cb9-a8cddd39a528" />
+      <option name="url" value="https://dl.bintray.com/kotlin/kotlin-dev/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c3db6a65-f9ab-485b-a4da-3095936085ba" />
+      <option name="name" value="c3db6a65-f9ab-485b-a4da-3095936085ba" />
+      <option name="url" value="https://maven.oschina.net/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5a31ad34-b546-410d-a365-1c67c24813d1" />
+      <option name="name" value="5a31ad34-b546-410d-a365-1c67c24813d1" />
+      <option name="url" value="https://maven-eu.nuxeo.org/nexus/content/repositories/public-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="23ee8efe-9544-4fbd-b90f-60e284b28984" />
+      <option name="name" value="23ee8efe-9544-4fbd-b90f-60e284b28984" />
+      <option name="url" value="https://maven.java.net/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5e7d8f20-b28f-43d1-abc5-874e2d973bd4" />
+      <option name="name" value="5e7d8f20-b28f-43d1-abc5-874e2d973bd4" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/ea/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="6510aedb-69e9-4b6f-92ae-abb9f6628670" />
+      <option name="name" value="6510aedb-69e9-4b6f-92ae-abb9f6628670" />
+      <option name="url" value="https://maven.wso2.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="4e48f031-0982-44af-ac91-7fcf8b42f294" />
+      <option name="name" value="4e48f031-0982-44af-ac91-7fcf8b42f294" />
+      <option name="url" value="https://git.oschina.net/thinkgem/repos/raw/master/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a88408f2-2849-48d8-a94c-cad86d1e39bd" />
+      <option name="name" value="a88408f2-2849-48d8-a94c-cad86d1e39bd" />
+      <option name="url" value="https://repo.opennms.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="342daeb9-d877-48eb-95c4-fdb1b72cda03" />
+      <option name="name" value="342daeb9-d877-48eb-95c4-fdb1b72cda03" />
+      <option name="url" value="https://maven.atlassian.com/content/repositories/atlassian-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="06d6e63e-f239-43ce-9208-70e896985422" />
+      <option name="name" value="06d6e63e-f239-43ce-9208-70e896985422" />
+      <option name="url" value="https://maven.ibiblio.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aa8e1d9d-dab9-4abb-bd2f-197d1045ee4d" />
+      <option name="name" value="aa8e1d9d-dab9-4abb-bd2f-197d1045ee4d" />
+      <option name="url" value="https://repo.boundlessgeo.com/main/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d7eb6db2-2fa6-476c-b10b-f61c102d128c" />
+      <option name="name" value="d7eb6db2-2fa6-476c-b10b-f61c102d128c" />
+      <option name="url" value="https://maven.aliyun.com/repository/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c61bd328-689f-4374-a76c-379ecdc10ff4" />
+      <option name="name" value="c61bd328-689f-4374-a76c-379ecdc10ff4" />
+      <option name="url" value="https://plugins.gradle.org/m2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cc197d8b-bd63-4d12-ab98-3e5e6852e551" />
+      <option name="name" value="cc197d8b-bd63-4d12-ab98-3e5e6852e551" />
+      <option name="url" value="https://nexus.bedatadriven.com/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="be798ee7-7513-4a9f-a4ac-9b8f317da233" />
+      <option name="name" value="be798ee7-7513-4a9f-a4ac-9b8f317da233" />
+      <option name="url" value="https://maven.aliyun.com/repository/apache-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b4d065b7-da5f-44e5-b760-eb183637a67d" />
+      <option name="name" value="b4d065b7-da5f-44e5-b760-eb183637a67d" />
+      <option name="url" value="https://repo.hortonworks.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5d305e14-519d-400c-b2ad-e0f0d8a3f81d" />
+      <option name="name" value="5d305e14-519d-400c-b2ad-e0f0d8a3f81d" />
+      <option name="url" value="https://repo.spring.io/release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="633c02a9-402e-4b54-9a5b-15c1bc4004dd" />
+      <option name="name" value="633c02a9-402e-4b54-9a5b-15c1bc4004dd" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/ea/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d2c4a3c6-1234-4c26-8c5d-c936cc049926" />
+      <option name="name" value="d2c4a3c6-1234-4c26-8c5d-c936cc049926" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="e2857ee2-c92f-4edd-a7ba-ac14f92d4ebe" />
+      <option name="name" value="e2857ee2-c92f-4edd-a7ba-ac14f92d4ebe" />
+      <option name="url" value="https://maven.xwiki.org/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="acbd4121-5746-4689-b852-904b9fa39edc" />
+      <option name="name" value="acbd4121-5746-4689-b852-904b9fa39edc" />
+      <option name="url" value="https://repo.spring.io/libs-milestone/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f074e7c9-4ebb-4139-9dae-2fd1f199ea46" />
+      <option name="name" value="f074e7c9-4ebb-4139-9dae-2fd1f199ea46" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c4c5f2a3-c0fb-4cc9-b08a-3fc923aea7ed" />
+      <option name="name" value="c4c5f2a3-c0fb-4cc9-b08a-3fc923aea7ed" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d0ef3a2d-bb61-4719-90b9-67dbdf653ffe" />
+      <option name="name" value="d0ef3a2d-bb61-4719-90b9-67dbdf653ffe" />
+      <option name="url" value="https://repo.spring.io/plugins-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f87fbb51-375d-47bd-9016-7aaead580688" />
+      <option name="name" value="f87fbb51-375d-47bd-9016-7aaead580688" />
+      <option name="url" value="https://clojars.org/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aec50c7f-3d87-4b18-9bbf-d240f8a9cbcf" />
+      <option name="name" value="aec50c7f-3d87-4b18-9bbf-d240f8a9cbcf" />
+      <option name="url" value="https://maven-eu.nuxeo.org/nexus/content/repositories/public-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b27cfa6a-ac70-45cd-8e61-e4a7bd08078a" />
+      <option name="name" value="b27cfa6a-ac70-45cd-8e61-e4a7bd08078a" />
+      <option name="url" value="https://bits.netbeans.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a8b79ba3-07ea-4428-90ec-a0a2dbbf123a" />
+      <option name="name" value="a8b79ba3-07ea-4428-90ec-a0a2dbbf123a" />
+      <option name="url" value="https://download.java.net/maven/2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="0aac7bd6-868a-48c8-810f-20c46f526f33" />
+      <option name="name" value="0aac7bd6-868a-48c8-810f-20c46f526f33" />
+      <option name="url" value="https://maven.repository.redhat.com/ga/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="07acfa13-ac54-4eb6-92f6-1c59398f0cde" />
+      <option name="name" value="07acfa13-ac54-4eb6-92f6-1c59398f0cde" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring-plugin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="13657fa6-df8f-46ba-97c5-91633c37513d" />
+      <option name="name" value="13657fa6-df8f-46ba-97c5-91633c37513d" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="48c356bb-687b-4d4b-96c4-b2cb5a42accb" />
+      <option name="name" value="48c356bb-687b-4d4b-96c4-b2cb5a42accb" />
+      <option name="url" value="https://repository.cloudera.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="3f225193-a5eb-4300-ad1c-4ebee1992985" />
+      <option name="name" value="3f225193-a5eb-4300-ad1c-4ebee1992985" />
+      <option name="url" value="https://nexus.pentaho.org/content/groups/omni/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cb5ce685-7632-4e9c-8629-35dbd78de40a" />
+      <option name="name" value="cb5ce685-7632-4e9c-8629-35dbd78de40a" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="2492343c-6465-4bf7-b841-15339f56ed40" />
+      <option name="name" value="2492343c-6465-4bf7-b841-15339f56ed40" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ab45043f-72de-4ec8-82ce-55faa3798b29" />
+      <option name="name" value="ab45043f-72de-4ec8-82ce-55faa3798b29" />
+      <option name="url" value="https://repo.spring.io/libs-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1ec0111c-159a-45de-ad46-0ba9fe38d30a" />
+      <option name="name" value="1ec0111c-159a-45de-ad46-0ba9fe38d30a" />
+      <option name="url" value="https://repo.hortonworks.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="0cd2a9a0-be33-4e1e-a738-3042eb73aca1" />
+      <option name="name" value="0cd2a9a0-be33-4e1e-a738-3042eb73aca1" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/releases/" />
+    </remote-repository>
+  </component>
+</project>
